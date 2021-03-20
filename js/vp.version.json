@@ -1,4 +1,5 @@
 {
   "name": "vp",
-  "version": "0.0.1"
+  "libraryName": "export",
+  "version": "0.0.2"
 }
